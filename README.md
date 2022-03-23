@@ -1,2 +1,2 @@
 # PokemonClone
-piccolo clone tutorial di poken utilizzando l'engine Godot
+piccolo clone tutorial di pokemon utilizzando l'engine Godot
